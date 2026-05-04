@@ -1,4 +1,4 @@
-#Sea Battle Game, (c) SenoraDeSombras, 2025-2026,  Licensed under GPLv3
+#Sea Battle Game, (c) SenyoraDeSombras, 2025-2026,  Licensed under GPLv3
 import random
 import time
 
